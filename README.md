@@ -1,6 +1,9 @@
 # personal-projects
 various data science/machine learning/coding projects
 
+##### lending_club_desc_mining
+In which I use naive Bayes classifiers to extract information from the text descriptions of Lending Club loan applications.
+
 ##### airline-delay
 In which I use C5.0 decision trees (incl. boosted) to predict the arrival status of commercial airline flights in 1987.
 
