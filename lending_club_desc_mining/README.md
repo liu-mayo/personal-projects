@@ -1,6 +1,6 @@
 # Mining Lending Club Loan Descriptions with Naive Bayes
 
-In this project I used naive Bayes classifiers to extract information from the text descriptions of Lending Club loan applications.
+In this project I used naive Bayes classifiers to extract information from the text descriptions of Lending Club loan applications. I also included a cute wordcloud visualization of the text, courtesy of the R `wordcloud` package.
 
 This data is a favorite of mine, as it is a messy real-world set with a lot of interesting challenges.  In particular, I find it very difficult to perform predictive analytics that produces better results than the analytics Lending Club has already provided in the form of their loan grading.
 
